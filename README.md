@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 application created by [ThinkJS](http://www.thinkjs.org)
 
@@ -20,3 +21,6 @@ use pm2 to deploy app on production envrioment.
 ```
 pm2 startOrReload pm2.json
 ```
+=======
+# my-website
+>>>>>>> origin/master
